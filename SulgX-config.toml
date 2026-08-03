@@ -1,4 +1,4 @@
-# SulgX Panel v1.1.0
+# SulgX Panel v1.5.7
 # Copy the values below into your platform's environment variables & start command.
 
 start_command = "python main.py"
